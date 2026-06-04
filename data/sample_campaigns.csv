@@ -1,0 +1,16 @@
+campaign_id,campaign_name,platform,objective,impressions,clicks,conversions,spend,revenue,ctr,cpc,cpa,roas,quality_score,status
+C001,Brand Awareness Q2,Google Ads,Awareness,450000,9450,320,15200,48000,2.1,1.61,47.5,3.16,7,Active
+C002,Summer Sale - Meta,Meta Ads,Conversions,320000,12800,890,22400,89000,4.0,1.75,25.2,3.97,8,Active
+C003,Retargeting - Website,Google Ads,Conversions,85000,4250,610,9800,36600,5.0,2.31,16.1,3.73,9,Active
+C004,Lead Gen - LinkedIn,LinkedIn,Lead Gen,120000,2400,145,18500,21750,2.0,7.71,127.6,1.18,6,Paused
+C005,Product Launch - Insta,Meta Ads,Traffic,280000,8400,210,11200,16800,3.0,1.33,53.3,1.50,7,Active
+C006,Search - Brand Keywords,Google Ads,Traffic,95000,7125,980,8550,58800,7.5,1.20,8.7,6.88,10,Active
+C007,Display - Competitor,Google Ads,Awareness,620000,6200,88,7440,5280,1.0,1.20,84.5,0.71,4,Active
+C008,Facebook Video Ads,Meta Ads,Awareness,510000,5100,95,9180,7600,1.0,1.80,96.6,0.83,5,Active
+C009,Shopping Campaigns,Google Ads,Conversions,190000,9500,1240,19000,99200,5.0,2.00,15.3,5.22,9,Active
+C010,YouTube Pre-roll,Google Ads,Awareness,380000,3800,62,11400,4960,1.0,3.00,183.9,0.44,5,Paused
+C011,Email Retargeting,Meta Ads,Conversions,62000,3720,445,5580,35600,6.0,1.50,12.5,6.38,9,Active
+C012,App Install Campaign,Meta Ads,App Installs,245000,7350,680,14700,27200,3.0,2.00,21.6,1.85,7,Active
+C013,Local Store Visits,Google Ads,Store Visits,175000,5250,380,10500,30400,3.0,2.00,27.6,2.90,8,Active
+C014,Influencer Traffic,Meta Ads,Traffic,430000,8600,190,17200,15200,2.0,2.00,90.5,0.88,6,Active
+C015,Bing Search Ads,Microsoft Ads,Traffic,88000,3520,280,4400,22400,4.0,1.25,15.7,5.09,8,Active
